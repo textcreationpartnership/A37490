@@ -115,10 +115,12 @@
       <front>
          <div type="title">
             <pb facs="tcp:40407:1"/>
-            <figure>
-               <head>PEST and OFFEN or BUDA</head>
-               <p>A The City offen or Buda B Pest C. The Block house, or S<hi rend="sup">t</hi>. Gerrards Hill D. The Castle E. The OverTown F. The Lower Subburbs. G. The Upper Subburbs H. The Water Town, or Jews Town I. Turkish Burying Place K. Hot Baths L. Ruines of the old Town M. The Danon N. The Bridge between Offen and Pest.</p>
-            </figure>
+            <p>  
+               <figure>
+                  <head>PEST and OFFEN or BUDA</head>
+                  <p>A The City offen or Buda B Pest C. The Block house, or S<hi rend="sup">t</hi>. Gerrards Hill D. The Castle E. The OverTown F. The Lower Subburbs. G. The Upper Subburbs H. The Water Town, or Jews Town I. Turkish Burying Place K. Hot Baths L. Ruines of the old Town M. The Danon N. The Bridge between Offen and Pest.</p>
+               </figure>
+            </p>
             <p>
                <gap reason="illegible" resp="#OXF" extent="1 span">
                   <desc>〈…〉</desc>
